@@ -1,3 +1,9 @@
+### todo list
+
+- [ ] comprar leche
+- [x] comprar pan
+- [ ] comprar azucar
+
 # h1
 ## h2
 ### h3
